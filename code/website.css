@@ -1,0 +1,30 @@
+body{
+    position: relative;
+    /* border: 5px solid; */
+    width: 500px;
+    height: 50px;
+    color: black;
+    max-width: max-content;
+    text-align: center;
+    margin: auto;
+    font-size: 15pt;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px; 
+    text-align: center;
+    background-image: url("../images/background.jpg");
+
+}
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.choices{
+    width: 750px;
+    background-color: black;
+    color: aqua;
+}
+.contact{
+    width: 500px;
+}
